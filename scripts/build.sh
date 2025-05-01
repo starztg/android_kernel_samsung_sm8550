@@ -2,7 +2,7 @@
 
 #set -e
 
-KERNEL_DEFCONFIG=gki_defconfig
+KERNEL_DEFCONFIG=dm3q_defconfig
 CLANG_VERSION=clang-r547379
 CLANG_DIR="$HOME/tools/google-clang"
 CLANG_BINARY="$CLANG_DIR/bin/clang"
